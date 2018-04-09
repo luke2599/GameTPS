@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GiochinoCasetta</string>
+    <string name="giocatore_2">Player 2</string>
+    <string name="gioca">PLAY</string>
+    <string name="vs">VS</string>
+    <string name="nuova_partita">New Game</string>
+    <string name="player_vs_player">PLAY</string>
+    <string name="giocatore_1">Player 1</string>
+    <string name="inserisci_nome">insert name</string>
+</resources>

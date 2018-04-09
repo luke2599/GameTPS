@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GiochinoCasetta</string>
+    <string name="giocatore_1">Giocatore 1</string>
+    <string name="inserisci_nome">inserisci nome</string>
+    <string name="giocatore_2">Giocatore 2</string>
+    <string name="gioca">GIOCA</string>
+    <string name="vs">VS</string>
+    <string name="nuova_partita">Nuova Partita</string>
+    <string name="player_vs_player">PLAY</string>
+</resources>
